@@ -8,6 +8,27 @@ This repository is a structured study resource for software design and developme
 
 This guide explains the five SOLID object-oriented design principles with clear descriptions, practical notes, and bad/good Java code examples.
 
+### Creational Design Patterns
+
+This section includes Java implementations and a guide for creational design patterns:
+
+- Singleton
+- Factory Method
+- Abstract Factory
+
+The guide explains where each pattern appears in the code, when to use it, its main SOLID principle focus, and UML diagrams for the implementation.
+
+### Structural Design Patterns
+
+This section includes Java implementations and a guide for structural design patterns:
+
+- Adapter
+- Bridge
+- Decorator
+- Flyweight
+
+The guide explains how these patterns organize relationships between classes and objects, with code examples, SOLID notes, and UML diagrams.
+
 ### Architectural Design
 
 This section focuses on architectural design concepts and includes:
