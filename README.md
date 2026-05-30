@@ -4,9 +4,13 @@ This repository is a structured study resource for software design and developme
 
 ## Current Study Sections
 
+### SOLID Principles
+
+This guide explains the five SOLID object-oriented design principles with clear descriptions, practical notes, and bad/good Java code examples.
+
 ### Architectural Design
 
-The first section focuses on architectural design concepts and includes:
+This section focuses on architectural design concepts and includes:
 
 - 150 multiple-choice questions with answers and justifications
 - 250 true/false questions with answers and justifications
