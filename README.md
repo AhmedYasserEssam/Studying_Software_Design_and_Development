@@ -18,6 +18,15 @@ This section focuses on architectural design concepts and includes:
 
 These materials cover core architectural design topics such as architectural decisions, architectural views, architectural patterns, application architectures, transaction processing systems, information systems, and language processing systems.
 
+### UML Component & Deployment Diagrams
+
+This section focuses on UML component and deployment diagrams and includes:
+
+- 160 multiple-choice questions with answers and justifications
+- 250 true/false questions with answers and justifications
+
+These materials cover component diagram concepts, interfaces, dependencies, artifacts, nodes, deployment diagrams, deployment patterns, and practical diagram-selection scenarios.
+
 ## Purpose
 
 The goal of this repository is to provide a clear, reusable, and well-organized study reference for reviewing software design and development topics through both direct knowledge checks and practical scenario analysis.
