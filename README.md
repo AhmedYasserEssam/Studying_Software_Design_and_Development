@@ -29,6 +29,18 @@ This section includes Java implementations and a guide for structural design pat
 
 The guide explains how these patterns organize relationships between classes and objects, with code examples, SOLID notes, and UML diagrams.
 
+### Behavioral Design Patterns
+
+This section includes Java implementations and a guide for behavioral design patterns:
+
+- Template Method
+- Strategy
+- Iterator
+- Mediator
+- Observer
+
+The guide explains how these patterns organize object communication, workflows, runtime behavior changes, collection traversal, and notifications, with code examples, SOLID notes, and UML diagrams.
+
 ### Architectural Design
 
 This section focuses on architectural design concepts and includes:
