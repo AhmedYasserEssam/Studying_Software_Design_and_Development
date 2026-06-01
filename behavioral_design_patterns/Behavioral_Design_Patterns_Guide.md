@@ -526,7 +526,7 @@ classDiagram
         +receive(String message, String senderName) void
     }
 
-    Client ..> ChatMediator : uses
+    Client ..> User : sends messages through
     ChatMediator <|.. ChatRoom
     User --> ChatMediator : sends through
     ChatRoom --> User : coordinates
